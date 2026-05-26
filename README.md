@@ -119,11 +119,4 @@ FBP SSIM: 0.611
 DL SSIM:  0.946
 ```
 
-These results are from synthetic phantoms and should be interpreted as a controlled technical demonstration, not clinical validation.
-
-## Limitations
-
-- The data are synthetic and do not represent real patient CT studies.
-- The learned model operates after FBP rather than directly reconstructing from scanner raw data.
-- The metrics are useful for controlled comparison but do not replace expert image-quality review.
-- The project does not include DICOM integration, scanner calibration, regulatory validation, or production deployment.
+These results are from synthetic phantoms and should be interpreted as a controlled technical demonstration.
