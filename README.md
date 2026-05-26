@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 For GPU training, install a PyTorch build that matches the CUDA version on the target machine.
 
-## Quick Smoke Test
+## Quick Start
 
 Generate a tiny synthetic dataset:
 
